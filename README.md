@@ -6,7 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Originally created by Jesse Haviland and Peter Corke**
+
 [link to original repository](https://github.com/jhavl/spatialmathematics)
+
 **Improved by Krishna Manaswi Digumarti**
 
 This repository contains a collection of Jupyter Notebooks exploring spatial mathematics and related applications. The notebooks are easily extensible to encourage experimentation.
